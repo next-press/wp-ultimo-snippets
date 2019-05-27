@@ -9,6 +9,7 @@ Enjoy!
 ## Snippets
 - Add Google Tag Manager to WP Ultimo's Sign-up - File: add-gtm-to-signup.php
 - Add Intercom to WP Ultimo's Sign-up - File: add-intercom-to-signup.php
+- Add name fields (first and last name) to the Account step on the sign-up flow - File: name-fields.php
 
 ## Contributing
 
