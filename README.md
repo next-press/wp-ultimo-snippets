@@ -11,6 +11,7 @@ Enjoy!
 - Add Intercom to WP Ultimo's Sign-up - File: add-intercom-to-signup.php
 - Add name fields (first and last name) to the Account step on the sign-up flow - File: name-fields.php
 - Add extra currency to the list of WP Ultimo currencies - File: add-custom-currency.php
+- Add tracking code to capture conversions on user first access of the admin panel - File: conversion-pixel.php
 
 ## Contributing
 
