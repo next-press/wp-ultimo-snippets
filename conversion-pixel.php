@@ -3,6 +3,8 @@
 /**
  * Allow you to add a conversion pixel from Facebook, Google and others.
  * 
+ *
+ * INSTRUCTION :
  * Replace the line <!-- PLACE PIXEL CODE HERE --> with the tracking code and drop this onto your wp-content/mu-plugins folder.
  * If that folder does not exists, you can simply create it.
  */
