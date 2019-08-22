@@ -2,7 +2,7 @@
 *  Move steps navigation to top of the page
 *
 * INSTRUCTIONS:
-* This code will simply more the steps navigation bar from the bottom ot the page to the top.
+* This code will simply move the steps navigation bar from the bottom ot the page to the top.
 * You can use the code as is. No changes needed.
 */
 
