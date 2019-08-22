@@ -1,7 +1,12 @@
 
 /**
- * Insert class on WP Ultimo sign up pages for custom styling.
- */
+* Insert class on WP Ultimo sign up pages for custom styling.
+*
+* INSTRUCTIONS:
+* Some users prefer to add different stylings or CSS on sign up pages. This code will allow you to insert additional class
+* on each pages for you to be able to target specific elements per pages.
+*
+*/
  
 add_action('admin_print_footer_scripts', 'registration_steps_insertclass', 10);
 
