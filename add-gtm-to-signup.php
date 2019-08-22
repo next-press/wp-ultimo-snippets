@@ -5,7 +5,8 @@
  * This can also be used to insert other JavaScript integration snippets.
  *
  * INSTRUCTION :
- * Place you Google Tag Manager code between <!-- MAIN GTM CODE BELOW THIS LINE --> and <!-- END GTM CODE -->
+ * Simply place you Google Tag Manager code between <!-- MAIN GTM CODE BELOW THIS LINE --> and <!-- END GTM CODE --> 
+ * which you can find in line 24.
  *
  * @author Arindo Duque - NextPress
  * @since 0.0.1
