@@ -4,7 +4,7 @@
 *
 * INSTRUCTION:
 * This code will remove WP Ultimo meta boxes from end-user's admin dashboard.
-* Each line represent one metabox. Just remove the line for the metabox you wish to display.
+* Each line represents one metabox. Just remove the line for the metabox you wish to display.
 *
 */
 
