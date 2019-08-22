@@ -4,18 +4,16 @@
  *
  * This can also be used to insert other JavaScript integration snippets.
  *
- * @author Arindo Duque - NextPress
- * @since 0.0.1
+ * INSTRUCTION :
+ * You can either replace the entire snippet with your own, or just change your app_id below.
+ * To replace the entire intercom code, delete the codes between <!-- INTERCOM CODE STARTS HERE --> and <!-- INTERCOM CODE ENDS HERE --> 
+ * then paste your new set of intercom code on the same spot.
  *
+ * To change the app_id and leave the rest of the code intact, juse replace the value of APP_ID variable found on line 23
+ * 
+ *
+ * @return void
  */
-
- /**
-  * Adds the intercom snippet.
-  *
-  * You can either replace the entire snippet with your own, or just change your app_id below.
-  *
-  * @return void
-  */
 function wu_add_intercom() { ?>
 
 <!-- INTERCOM CODE STARTS HERE -->
