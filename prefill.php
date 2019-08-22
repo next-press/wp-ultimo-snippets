@@ -1,6 +1,11 @@
 /**
- * Prefill domain title and URL fields on sign up
- */
+* Prefill domain title and URL fields on sign up
+*
+* INSTRUCTION:
+* This code will prepopulate the Site title and site URL field on sign up.
+* It is a more complex code and requires advanced knowledge in PHP to understand the function and what it does but it will give 
+* users an idea on how to parse value using $_GET and place the value to the sign up field.
+*/
 
 <?php 
 
