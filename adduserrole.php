@@ -1,3 +1,4 @@
+<?php
 /**
 * Add user role on sign up
 *
