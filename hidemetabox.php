@@ -1,4 +1,4 @@
-
+<?php
 /**
 * Hide WP Ultimo meta box on admin dashboard
 *
