@@ -1,3 +1,4 @@
+<?php
 /**
 *  Move steps navigation to top of the page
 *
