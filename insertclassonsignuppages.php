@@ -1,4 +1,4 @@
-
+<?php
 /**
 * Insert class on WP Ultimo sign up pages for custom styling.
 *
