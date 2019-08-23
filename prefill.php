@@ -1,3 +1,4 @@
+<?php
 /**
 * Prefill domain title and URL fields on sign up
 *
