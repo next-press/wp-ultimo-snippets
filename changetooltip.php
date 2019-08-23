@@ -1,3 +1,4 @@
+<?php
 /**
 * Change tool tip on WP Ultimo sign up fields
 *
